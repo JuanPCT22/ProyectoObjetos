@@ -1,0 +1,27 @@
+/bin/
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos del IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de compilación
+bin/
+build/
+target/
+out/
+
+# Archivos de log
+*.log
